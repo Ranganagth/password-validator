@@ -8,6 +8,10 @@ This is a simple HTML/CSS/JavaScript project that provides a visual validation f
 - **Password Visibility Toggle**: Allows users to toggle the visibility of the password using an eye icon.
 - **Responsive Design**: The layout is responsive and adapts to different screen sizes.
 
+## Demo
+
+You can view a live demo of the [Password Validator](http://password-validator.xtgem.com/).
+
 ## Files
 
 - `index.html`: The main HTML file that contains the structure of the webpage.
